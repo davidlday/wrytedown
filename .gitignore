@@ -1,1 +1,34 @@
+# build output
+/dist
+/dist-electron
+/out
+
+# dependencies
+node_modules/
+
+# environment
+.env
+.env.local
+.env.*.local
+
+# app data and logs
+*.log
+*.pem
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# testing
+/coverage
+/test-results
+
+# development
 .worktrees/
