@@ -12,8 +12,5 @@
     "noEmit": true,
     "isolatedModules": true
   },
-  "include": [
-    "src/renderer/**/*.ts",
-    "src/renderer/**/*.tsx"
-  ]
+  "include": ["src/renderer/**/*.ts", "src/renderer/**/*.tsx"]
 }

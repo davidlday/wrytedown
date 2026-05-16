@@ -1,5 +1,5 @@
-import { contextBridge } from 'electron'
+import { contextBridge } from "electron";
 
-contextBridge.exposeInMainWorld('wrytedown', {
+contextBridge.exposeInMainWorld("wrytedown", {
   // Will be populated in later tasks
-})
+});
