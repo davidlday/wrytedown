@@ -16,7 +16,9 @@ If guidance conflicts, the order of precedence is:
 
 ## Mission
 
-Wrytedown empowers writers with a professional, cross-platform writing environment built on open standards, user ownership, and long-term accessibility.
+Wrytedown empowers writers with a professional, cross-platform writing
+environment built on open standards, user ownership, and long-term
+accessibility.
 
 The project exists to:
 
@@ -30,7 +32,9 @@ The project exists to:
 
 ## Vision
 
-Create a future in which creative work remains permanently owned by its creators, accessible through open formats, and independent of any single application, company, platform, or technology.
+Create a future in which creative work remains permanently owned by its
+creators, accessible through open formats, and independent of any single
+application, company, platform, or technology.
 
 ---
 
@@ -40,7 +44,8 @@ Create a future in which creative work remains permanently owned by its creators
 
 Users own their data.
 
-Content created in Wrytedown must remain accessible outside Wrytedown whenever reasonably possible.
+Content created in Wrytedown must remain accessible outside Wrytedown whenever
+reasonably possible.
 
 Prefer:
 
@@ -189,12 +194,8 @@ docs/architecture/project-format/
 
 Project documentation is organized under:
 
-docs/
-├── vision/
-├── architecture/
-├── specifications/
-├── decisions/
-└── user-guides/
+docs/ ├── vision/ ├── architecture/ ├── specifications/ ├── decisions/ └──
+user-guides/
 
 ---
 
@@ -259,4 +260,5 @@ If required documentation does not exist:
 
 Changes to AGENTS.md are governance-level changes.
 
-Such changes should be reviewed with the same care applied to major architectural decisions.
+Such changes should be reviewed with the same care applied to major
+architectural decisions.
